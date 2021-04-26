@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901768775594",
+    "project_id": "paintme-311903",
+    "storage_bucket": "paintme-311903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901768775594:android:c0512a8e70bb8b1b228dd3",
+        "android_client_info": {
+          "package_name": "com.aocg.paintme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901768775594-0nf140u2lur4skds7cutln06421rular.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBceSyUe1Hi_Qk80acHpkruiEZJM-l1xvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901768775594-0nf140u2lur4skds7cutln06421rular.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
